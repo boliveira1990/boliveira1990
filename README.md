@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalho com levantamento de requisitos
 - 🌱 Estou aprendendo a programar front-end (html5, css3, bootstrap e JS)
 - 💬 Me formei em Programação e Desenvolvimento de Sistemas pelo IFSP em 2009, fiz Administração de Empresas pelo UNIFAE em 2015.
-  A mais de 10 anos trabalho com tecnologia e a 6 em levantamento de requisitos.
+  Há mais de 10 anos trabalho com tecnologia e a 6 em levantamento de requisitos.
 - ⚡ Gosto da natureza e do ar livre, costumo sair para correr de manhã e ir na academia a noite.
   Gosto de games e séries.
 

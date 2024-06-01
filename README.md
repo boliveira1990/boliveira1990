@@ -1,7 +1,7 @@
 ### Olá, meu nome é Bruno de Oliveira 👋
 
 
-- 🔭 Desenvolvedor ABAP | RAP Uipath
+- 🔭 Desenvolvedor ABAP | S/4Hana | Fiori
 - 🌱 Um eterno aprendiz, a cada dia uma nova aventura.
 - 💬 Me formei em Programação e Desenvolvimento de Sistemas pelo IFSP em 2009, fiz Administração de Empresas pelo UNIFAE em 2015.
   Há mais de 10 anos trabalho com tecnologia.
